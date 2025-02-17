@@ -1,4 +1,5 @@
 def aboutMe():
+
     myNames         = "Omer SAHIN"
     myJob           = "Senior Software Engineer for Python, C#, PHP"
     myOtherSkills   = "Google Search Engine Optimization (SEO)\n"
