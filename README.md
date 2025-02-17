@@ -8,6 +8,4 @@ def aboutMe():
                       "WordPress Web&Theme Designer \n"
     whoAmI         = {"Name" : myNames, "Job" : myJob, "Skills" : myOtherSkills}
     return whoAmI
-
-  
-  print(aboutMe())
+print(aboutMe())
