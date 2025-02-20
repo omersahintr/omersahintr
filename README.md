@@ -37,6 +37,6 @@ Welcome to my GitHub profile! I'm a passionate and dedicated software developer 
 - [Twitter](https://x.com/mromersahin)
 - [Portfolio](https://www.omersahin.com.tr/)
 
-Thanks for visiting my profile! Feel free to explore my [Repositories](https://github.com/omersahintr?tab=repositories) and reach out if you'd like to collaborate or have any questions.
+Thanks for visiting my profile! Feel free to explore [my Repositories](https://github.com/omersahintr?tab=repositories) and reach out if you'd like to collaborate or have any questions.
 
 
