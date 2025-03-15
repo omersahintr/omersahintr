@@ -11,9 +11,9 @@
 ### print(aboutMe()) 
 
 # 👋 Hi there, I'm Omer Sahin 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=omersahintr&show_icons=true&theme=radical)
 
 Welcome to my GitHub profile! I'm a passionate and dedicated software developer with a keen interest in web development, open-source projects, and continuous learning. Here's a little more about me:
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=omersahintr&show_icons=true&theme=radical)
 
 ## 🚀 About Me
 - 🔭 I’m currently working on various web development projects using modern technologies.
