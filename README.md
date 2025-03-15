@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a passionate and dedicated software developer 
 - ⚡ Fun fact: I love solving puzzles and playing strategy games.
 
 ## 🛠️ Technologies & Tools
-- **Languages**: Python, C#, HTML, CSS, PHP
+- **Languages**: Python, C#, PHP, HTML, CSS, Bootstrap
 - **Frameworks & Libraries**: Pandas, Node.js, MatPlotLib, R
 - **Tools & Platforms**: Git, GitHub, Docker, VS Code, PyCharm, Wordpress
 - **Databases**: MS-SQL, MySQL
